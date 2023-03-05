@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Victor Hugo Ocanto Quintero</h1>
-<h3 align="center">Soy un back-end developer</h3>
+<h3 align="center">Soy un Back-end developer</h3>
 
 - 💬 Ask me about **Python, Django y MySQL**
 
